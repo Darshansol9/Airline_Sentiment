@@ -5,6 +5,8 @@ https://stackabuse.com/python-for-nlp-sentiment-analysis-with-scikit-learn/
 
 Changes Applied:
 Graphical reprenstation to study the details of various algorithms applied to the training data.<br>
+Adding Pickling concept to not go re-training on the data.<br>
+Using nltk libraries to churn more verbose data and fitering it more subtle manner.<br>
 Applying different sets of algortihms to study the trend of various behaviours.<br>
 
 Problem Statement:
